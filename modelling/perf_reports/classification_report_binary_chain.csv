@@ -1,0 +1,15 @@
+,precision,recall,f1-score,support
+Anti-EU,0.0,0.0,0.0,7.0
+Anti-Elites,0.0,0.0,0.0,2.0
+Distrust in democratic system,0.0,0.0,0.0,8.0
+Distrust in institutions,0.0,0.0,0.0,36.0
+Ethnicity-related,0.0,0.0,0.0,2.0
+Gender-related,0.0,0.0,0.0,4.0
+Geopolitics,0.0,0.0,0.0,4.0
+Migration-related,0.0,0.0,0.0,2.0
+None,0.43037974683544306,1.0,0.6017699115044248,102.0
+Political hate and polarisation,0.0,0.0,0.0,72.0
+Religion-related,0.0,0.0,0.0,1.0
+accuracy,0.425,0.425,0.425,0.425
+macro avg,0.039125431530494824,0.09090909090909091,0.054706355591311345,240.0
+weighted avg,0.1829113924050633,0.425,0.25575221238938056,240.0
